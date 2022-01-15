@@ -1,0 +1,223 @@
+.bg-aed {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -10px -10px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-aud {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -50px -10px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-brl {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -10px -45px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-cad {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -50px -45px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-chf {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -90px -10px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-cny {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -90px -45px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-eur {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -10px -80px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-gbp {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -50px -80px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-hkd {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -90px -80px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-idr {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -130px -10px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-inr {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -130px -45px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-jpy {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -130px -80px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-krw {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -10px -115px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-mnt {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -50px -115px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-mop {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -90px -115px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-mxn {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -130px -115px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-myr {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -170px -10px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-nzd {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -170px -45px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-php {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -170px -80px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-pln {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -170px -115px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-rub {
+    width: 20px; height: 15px;
+    background: url('css_sprites.png') -10px -150px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-sek {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -50px -150px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-sgd {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -90px -150px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-thb {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -130px -150px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-try {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -170px -150px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-twd {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -210px -10px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-usd {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -210px -45px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
+
+.bg-vnd {
+    width: 20px; height: 15px;
+    background: url('../images/currency_sprites.png') -210px -80px;
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: text-top;
+}
